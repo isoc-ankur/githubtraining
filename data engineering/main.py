@@ -1,8 +1,6 @@
 import os
 from dotenv import load_dotenv
-import boto3
-from botocore.exceptions import ClientError
-
+import pandas
 
 load_dotenv()
 
