@@ -1,2 +1,6 @@
+# folders
 nrs_dv360/
+.svn/
+
+#files
 .env
